@@ -31,7 +31,7 @@
            }
            
            // Displaying the Lowest Number in an Array n.
-           System.out.println("The Lowest Number in an Array n is: " + low);
+           System.out.println("The Lowest Number in Array n is: " + low);
     
         }
     }
