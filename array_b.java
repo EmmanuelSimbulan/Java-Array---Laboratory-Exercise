@@ -31,7 +31,7 @@ public class array_b {
        }
 
        // Displaying the Highest Number in an Array n.
-       System.out.println("The Highest Number in an Array n is: " + high);
+       System.out.println("The Highest Number in Array n is: " + high);
 
     }
 }
